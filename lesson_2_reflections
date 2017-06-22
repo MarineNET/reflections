@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When you first initialize the directory, a new .git file is being created
+	in a directory. This will allow us to create new commits for the files
+	that are inside the directory.
