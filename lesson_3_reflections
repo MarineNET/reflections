@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  Always! Well for most of the projects, unless they are TOP Secret and you don't want
+  anyone to see them. Otherwise it just makes sense to store all the projects in a remote
+  repository which can act as a safeguard against data losses on a local machine.
